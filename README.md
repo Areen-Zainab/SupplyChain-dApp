@@ -1,7 +1,7 @@
-# Quick Start Guide
-## Areen Zainab - Supply Chain Management DApp
 
-Get your DApp running in 10 minutes! ⚡
+# Areen Zainab - Supply Chain Management DApp
+
+Get your DApp running in 10 minutes!
 
 ---
 
